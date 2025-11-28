@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/
+journal.txt
+journal.enc
+journal_decrypted.tmp
